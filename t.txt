@@ -1,0 +1,139 @@
+{
+    "title": {
+        "title": "Updated Finexo"
+    },
+
+    "nav": {
+        "heading": "Updated Finexo",
+        "nav0": "home",
+        "nav1": "About",
+        "nav2": "Service",
+        "nav3": "Why Us",
+        "nav4": "Team",
+        "nav5": "Login"
+    },
+
+    "slide":{
+        "s0":"updated Crypto Currency",
+        "s1":"updated Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.",
+        "s2":"updated Read More",
+        "s3":"updated Crypto Currency",
+        "s4":"Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.",
+        "s5":"Read More",
+        "s6":"updated Crypto Currency",
+        "s7":"Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.",
+        "s8":"Read More"
+    },
+
+      "service":{
+        "se0":"update Our Services",
+        "se1":"update There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration",
+        "se2":"update Currency Wallet",
+        "se3":"fact that a reader will be distracted by the readable content of a page when looking at its layout.The point of using",
+        "se4":"Read More",
+        "se5":"Security Storage",
+        "se6":"fact that a reader will be distracted by the readable content of a page when looking at its layout.The point of using",
+        "se7":"updates Read More",
+        "se8":"Expert Support",
+        "se9":"fact that a reader will be distracted by the readable content of a page when looking at its layout.The point of using",
+        "se10":"Read More",
+        "se11":"update  View All"
+     },
+
+       "about":{
+        "a0":"update About US",
+        "a1":"update Magni quod blanditiis non minus sed aut voluptatum illum quisquam aspernatur ullam vel beatae rerum ipsum voluptatibus",
+        "a2":"update We Are Finexo",
+        "a3":" There are many variations of passages of Lorem Ipsum available, but the majority have suffered alterationin some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All",
+        "a4":"Molestiae odio earum non qui cumque provident voluptates, repellendus exercitationem, possimus at iste corrupti officiis unde alias eius ducimus reiciendis soluta eveniet. Nobis ullam ab omnis quasi expedita.",
+        "a5":"Read More"
+    },
+
+    "why":{
+        "w0":"Updated Why Choose Us",
+        "w1":"Updated Expert Management",
+        "w2":"Updated Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus",
+        "w3":"Updated Secure Investment",
+        "w4":"Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus",
+        "w5":"Instant Trading",
+        "w6":"Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus",
+        "w7":"Happy Customers",
+        "w8":"Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus",
+        "w9":"Updated Read More"
+    },
+
+    "team" : {
+        "te0":"updated Our Team",
+        "te1":"updated Joseph Brown",
+        "te2":"Marketing Head",
+        "te3":"Nancy White",
+        "te4":"Marketing Head",
+        "te5":"Earl Martinez",
+        "te6":"Marketing Head",
+        "te7":"Josephine Allard",
+        "te8":"updated Marketing Head"
+     },
+
+      "client":{
+        "c0":"update What says our Customers",
+        "c1":"LusDen",
+        "c2":"magna aliqua. Ut",
+        "c3":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis",
+        "c4":"Zen Court",
+        "c5":"magna aliqua. Ut",
+        "c6":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis",
+        "c7":"LusDen",
+        "c8":"magna aliqua. Ut",
+        "c9":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis",
+        "c10":"Zen Court",
+        "c11":"magna aliqua. Ut",
+        "c12":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis"
+     },
+
+     "info":{
+        "b0":"update Address",
+        "b1":"Location",
+        "b2":"Call +01 1234567890",
+        "b3":"demo@gmail.com",
+        "b4":"Info",
+        "b5":"necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful",
+        "b6":"Links",
+        "b7":"Home",
+        "b8":"About",
+        "b9":"Services",
+        "b10":"Why Us",
+        "b11":"Team",
+        "b12":"Subscribe"
+     },
+
+     "footer":{
+        "f0":"All Rights Reserved By",
+        "f1":"Free Html Templates"
+     },
+     
+     "images": {
+        "img1": "images/hero-bg.png",
+        "img2": "images/slider-img.png",
+        "img3": "images/slider-img.png",
+        "img4": "images/slider-img.png",
+        "img5": "images/s1.png",
+        "img6": "images/s2.png",
+        "img7": "images/s3.png",
+        "img8": "images/about-img.png",
+        "img9": "images/w1.png",
+        "img10": "images/w2.png",
+        "img11": "images/w3.png",
+        "img12": "images/w4.png",
+        "img13": "images/team-1.jpg",
+        "img14": "images/team-2.jpg",
+        "img15": "images/team-3.jpg",
+        "img16": "images/team-4.jpg",
+        "img17": "images/client1.jpg",
+        "img18": "images/client2.jpg",
+        "img19": "images/client1.jpg",
+        "img20": "images/client2.jpg",
+        "imgbg":"images/hero-bg.png"
+    }
+
+
+}
