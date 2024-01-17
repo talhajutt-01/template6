@@ -110,6 +110,18 @@
         "f0":"All Rights Reserved By",
         "f1":"Free Html Templates"
      },
+
+        "color":{
+        "header":"grey",
+        "service":"red",
+        "about":"red",
+        "why":"grey",
+        "team":"red",
+        "client":"grey",
+        "info":"red",
+        "footer":"red"
+     },
+
      
      "images": {
         "img1": "images/hero-bg.png",
