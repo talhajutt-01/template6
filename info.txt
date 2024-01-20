@@ -4,6 +4,7 @@
     },
 
     "nav": {
+        //another section all elements are links and heading is text
         "heading": "Updated Finexo",
         "nav0": "home",
         "nav1": "About",
@@ -14,6 +15,7 @@
     },
 
     "slide":{
+        //another section all elements are text and s8 is button or link
         "s0":"updated Crypto Currency",
         "s1":"updated Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.",
         "s2":"updated Read More",
@@ -26,6 +28,7 @@
     },
 
       "service":{
+        //another section all elements are text and se4,se7,se10,se11 are button or link
         "se0":"update Our Services",
         "se1":"update There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration",
         "se2":"update Currency Wallet",
@@ -41,6 +44,7 @@
      },
 
        "about":{
+        //another section all elements are text and a5 is button or link
         "a0":"update About US",
         "a1":"update Magni quod blanditiis non minus sed aut voluptatum illum quisquam aspernatur ullam vel beatae rerum ipsum voluptatibus",
         "a2":"update We Are Finexo",
@@ -50,6 +54,7 @@
     },
 
     "why":{
+        //another section all elements are text and w9 is button
         "w0":"Updated Why Choose Us",
         "w1":"Updated Expert Management",
         "w2":"Updated Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus",
@@ -63,6 +68,7 @@
     },
 
     "team" : {
+        //another section all elements are text
         "te0":"updated Our Team",
         "te1":"updated Joseph Brown",
         "te2":"Marketing Head",
@@ -75,6 +81,7 @@
      },
 
       "client":{
+        //another section all elements are text
         "c0":"update What says our Customers",
         "c1":"LusDen",
         "c2":"magna aliqua. Ut",
@@ -91,6 +98,7 @@
      },
 
      "info":{
+        //another section all elements are text andb7,b8,b9,b10,b11,b12 are button or link
         "b0":"update Address",
         "b1":"Location",
         "b2":"Call +01 1234567890",
@@ -107,11 +115,13 @@
      },
 
      "footer":{
+        //another section all elements are text
         "f0":"All Rights Reserved By",
         "f1":"Free Html Templates"
      },
 
         "color":{
+         //change colors of sections
         "header":"grey",
         "service":"red",
         "about":"red",
@@ -124,27 +134,39 @@
 
      
      "images": {
+        //image of hero
         "img1": "images/hero-bg.png",
+
+        //images of slides section
         "img2": "images/slider-img.png",
         "img3": "images/slider-img.png",
         "img4": "images/slider-img.png",
+
+        //images of service section
         "img5": "images/s1.png",
         "img6": "images/s2.png",
         "img7": "images/s3.png",
+
+        //images of about section
         "img8": "images/about-img.png",
+
+        //images of why section
         "img9": "images/w1.png",
         "img10": "images/w2.png",
         "img11": "images/w3.png",
         "img12": "images/w4.png",
+
+        //images of team section
         "img13": "images/team-1.jpg",
         "img14": "images/team-2.jpg",
         "img15": "images/team-3.jpg",
         "img16": "images/team-4.jpg",
+
+        //images of client section
         "img17": "images/client1.jpg",
         "img18": "images/client2.jpg",
         "img19": "images/client1.jpg",
         "img20": "images/client2.jpg",
-      
     }
 
 

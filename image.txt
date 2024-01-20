@@ -20,6 +20,5 @@
         "img18": "images/client2.jpg",
         "img19": "images/client1.jpg",
         "img20": "images/client2.jpg",
-        "imgbg":"images/hero-bg.png"
-    }
+        
 }
