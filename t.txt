@@ -120,32 +120,6 @@
         "client":"grey",
         "info":"red",
         "footer":"red"
-     },
-
-     
-     "images": {
-        "img1": "images/hero-bg.png",
-        "img2": "images/slider-img.png",
-        "img3": "images/slider-img.png",
-        "img4": "images/slider-img.png",
-        "img5": "images/s1.png",
-        "img6": "images/s2.png",
-        "img7": "images/s3.png",
-        "img8": "images/about-img.png",
-        "img9": "images/w1.png",
-        "img10": "images/w2.png",
-        "img11": "images/w3.png",
-        "img12": "images/w4.png",
-        "img13": "images/team-1.jpg",
-        "img14": "images/team-2.jpg",
-        "img15": "images/team-3.jpg",
-        "img16": "images/team-4.jpg",
-        "img17": "images/client1.jpg",
-        "img18": "images/client2.jpg",
-        "img19": "images/client1.jpg",
-        "img20": "images/client2.jpg",
-      
-    }
-
+     }
 
 }
